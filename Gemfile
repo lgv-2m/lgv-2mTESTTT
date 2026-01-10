@@ -5,3 +5,5 @@ gemspec
 
 
 gem "kramdown-parser-gfm", "~> 1.1"
+gem "bigdecimal"
+gem "logger"
